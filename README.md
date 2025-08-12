@@ -7,7 +7,7 @@ Dependencies
 
 For any support contact us here https://discord.gg/Hjjd6U658Z
 
-# mygulin_reportrs
+# mygulin_reports
 
 Závislosti
 - Es_extended
